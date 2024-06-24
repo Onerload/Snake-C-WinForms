@@ -1,0 +1,3 @@
+D:\Проекты\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.AssemblyReference.cache
+D:\Проекты\SnakeGame\SnakeGame\x64\Debug\SnakeGame.MyForm.resources
+D:\Проекты\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.GenerateResource.cache

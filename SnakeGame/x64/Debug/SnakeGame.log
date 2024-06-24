@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Проекты\SnakeGame\SnakeGame\MyForm.cpp(268,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SnakeGame.vcxproj -> D:\Проекты\SnakeGame\x64\Debug\SnakeGame.exe
